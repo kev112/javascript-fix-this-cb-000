@@ -21,7 +21,7 @@ var pie = {
   bakeTemp: "350 degrees",
   bakeTime: "75 minutes",
   customer: "Tammy"
-}
+}  
 
 function makeCake() {
   var updateCakeStatus;
